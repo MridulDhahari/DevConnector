@@ -7,4 +7,4 @@ Json Web Token as middleware for authentication and has password encryption. Fro
 enhanced with Material UI for a visually appealing interface. Redux manages state, Axios handles API requests,
 and Postman for testing and debugging API, making it user-friendly blogging platform.
 
-How to Run 
+Demo Video Link :  https://drive.google.com/file/d/1-wPPK4-u2g1HPbMkKk0uG5jUIzf3bwKa/view?usp=sharing
